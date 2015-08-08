@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "OWMWeatherAPI.h"
 
 @interface ViewController : UIViewController
 
